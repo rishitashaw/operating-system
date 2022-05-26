@@ -1,0 +1,180 @@
+pc_system = {
+  enable_a20 = true
+  a20_mask = 0xffffffffffffffff
+  currCountdown = 1000
+  currCountdownPeriod = 1000
+  ticksTotal = 10554648000
+  lastTimeUsec = 0
+  usecSinceLast = 0
+  HRQ = false
+  timer = {
+    0 = {
+      inUse = true
+      period = 4294967295
+      timeToFire = 12884901885
+      active = true
+      continuous = true
+      param = 0
+    }
+    1 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    2 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    3 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    4 = {
+      inUse = true
+      period = 14384
+      timeToFire = 10554650094
+      active = true
+      continuous = false
+      param = 0
+    }
+    5 = {
+      inUse = true
+      period = 6678580
+      timeToFire = 10561323724
+      active = true
+      continuous = false
+      param = 0
+    }
+    6 = {
+      inUse = true
+      period = 4000
+      timeToFire = 10554652000
+      active = true
+      continuous = true
+      param = 0
+    }
+    7 = {
+      inUse = true
+      period = 4000000
+      timeToFire = 4000000
+      active = false
+      continuous = true
+      param = 0
+    }
+    8 = {
+      inUse = true
+      period = 976
+      timeToFire = 10552972810
+      active = false
+      continuous = false
+      param = 0
+    }
+    9 = {
+      inUse = true
+      period = 53332
+      timeToFire = 7411892386
+      active = false
+      continuous = false
+      param = 0
+    }
+    10 = {
+      inUse = true
+      period = 4000
+      timeToFire = 4000
+      active = false
+      continuous = false
+      param = 0
+    }
+    11 = {
+      inUse = true
+      period = 4
+      timeToFire = 4
+      active = false
+      continuous = false
+      param = 0
+    }
+    12 = {
+      inUse = true
+      period = 4
+      timeToFire = 4
+      active = false
+      continuous = false
+      param = 1
+    }
+    13 = {
+      inUse = true
+      period = 4
+      timeToFire = 4
+      active = false
+      continuous = false
+      param = 2
+    }
+    14 = {
+      inUse = true
+      period = 1000
+      timeToFire = 10554649000
+      active = true
+      continuous = true
+      param = 0
+    }
+    15 = {
+      inUse = true
+      period = 4000
+      timeToFire = 4000
+      active = false
+      continuous = false
+      param = 0
+    }
+    16 = {
+      inUse = true
+      period = 4000
+      timeToFire = 4000
+      active = false
+      continuous = false
+      param = 1
+    }
+    17 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    18 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    19 = {
+      inUse = true
+      period = 1
+      timeToFire = 1
+      active = false
+      continuous = false
+      param = 0
+    }
+    20 = {
+      inUse = true
+      period = 4000
+      timeToFire = 10554652000
+      active = true
+      continuous = true
+      param = 0
+    }
+  }
+}
